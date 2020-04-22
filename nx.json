@@ -22,9 +22,14 @@
     "app": {
       "tags": []
     },
-    "app-e2e": {
-      "tags": [],
-      "implicitDependencies": ["app"]
+    "utils": {
+      "tags": []
+    },
+    "styles": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
